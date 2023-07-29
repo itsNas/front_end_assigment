@@ -1,5 +1,5 @@
-function LeavesInfo() {
-  return <div>Leaves Info</div>;
+function LeavesBalance() {
+  return <div>Leaves Balance</div>;
 }
 
-export default LeavesInfo;
+export default LeavesBalance;
