@@ -3,16 +3,16 @@ import { leavesData } from "../constant";
 
 function LeavesBalance() {
   return (
-    <div className="mx-auto max-w-md flex justify-evenly">
+    <div className="mx-auto max-w-md flex justify-evenly mt-2">
       {leavesData.map((data) => (
-        <div className=" text-center text-xs " key={data.id}>
+        <div className=" text-center text-xs xs:text-sm " key={data.id}>
           <p className="mb-2 text-slate-400">{data.id}</p>
           <RadialProgress
             backgroundColour="#dff0d8"
             backgroundTransparent
             duration={1000}
             fontRatio={4}
-            height={80}
+            height={100}
             ringBgColour="#ccc"
             ringFgColour={data.color}
             ringIntermediateColour={data.color}
