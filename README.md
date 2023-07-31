@@ -54,7 +54,7 @@ I'm excited to showcase my work on this assignment and share the details of my a
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out to me at [your.email@example.com](mailto:nbensaloji@gmail.com). You can also visit my portfolio at [Your Portfolio URL](https://github.com/itsNas).
+For any inquiries or feedback, feel free to reach out to me at [nbensaloji@gmail.com](mailto:nbensaloji@gmail.com). You can also visit my portfolio at [Github](https://github.com/itsNas).
 
 ---
 
