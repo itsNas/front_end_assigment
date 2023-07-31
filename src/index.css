@@ -7,9 +7,3 @@
   margin: 0;
   padding: 0;
 }
-
-/* @layer base {
-  body {
-    @apply text-sm xs:text-sm;
-  }
-} */

@@ -3,8 +3,8 @@ import { historyData } from "../constant";
 
 function LeavesHistory() {
   return (
-    <div className="mx-auto p-6 max-w-md">
-      <ul className="flex justify-end border-b mt-4">
+    <div className="mx-auto p-6 max-w-md mt-4">
+      <ul className="flex justify-end border-b mt-6">
         <li>
           <NavLink className="relative py-2 first:pl-4 last:pr-4 ">
             <span className={`relative z-10 text-sm xs:text-base`}>
