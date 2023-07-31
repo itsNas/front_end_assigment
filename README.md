@@ -1,6 +1,6 @@
 # Front-end Assignment: Leaves Management Web Application
 
-![Project Preview](/leaves.png)
+![Alt text](/leaves.png?raw=true "Optional Title")
 
 ## Live Demo
 
