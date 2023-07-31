@@ -20,11 +20,20 @@ function Navbar() {
         </button>
       </NavLink>
       <h1 className="text-3xl mb-4">Morning Masscoder</h1>
-      <ul className="flex justify-between border-b-2 py-4 first:pt-0 last:pb-0">
+      <ul className="flex justify-between border-b-2 pt-4 pb-0">
         {navbarItems.map((page) => (
           <li key={page.path} onClick={() => setSelectedPage(page.path)}>
-            <NavLink to={page.path} className="relative group px-4 py-2">
-              <span className="relative z-10 text-lg">{page.label}</span>
+            <NavLink
+              to={page.path}
+              className="relative py-2 first:pl-2 last:pr-2"
+            >
+              <span
+                className={`relative z-10 text-lg ${
+                  selectedPage === page.path ? "" : "text-slate-400"
+                }`}
+              >
+                {page.label}
+              </span>
               <span
                 className={`absolute bottom-0 left-0 w-full h-1 bg-zinc-700 ${
                   selectedPage === page.path ? "scale-x-100" : "scale-x-0"
