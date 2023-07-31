@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-Please find the live demo of the project at the following link: [Live Demo Link](https://front-end-masscode-nasrullah.vercel.app/leaves)
+Please find the live demo of the project at the following link: [Live Demo](https://front-end-masscode-nasrullah.vercel.app/leaves)
 
 ## Introduction
 
@@ -61,4 +61,5 @@ For any inquiries or feedback, feel free to reach out to me at [nbensaloji@gmail
 I am looking forward to discussing my approach and the assignment with you further. Thank you for considering my application.
 
 Sincerely,
-[Nasrullah Saloji]
+
+Nasrullah Saloji
